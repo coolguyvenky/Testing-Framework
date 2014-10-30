@@ -1,4 +1,4 @@
-package com.auto.pageObject;
+package com.auto.pageObject.Amazon;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

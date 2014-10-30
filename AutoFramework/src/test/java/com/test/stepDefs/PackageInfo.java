@@ -6,8 +6,8 @@ import org.apache.commons.lang.ArrayUtils;
 
 public enum PackageInfo {
 	
-	CHASE("ChaseHomePage","com.auto.pageObject"),
-	AMAZON("AmazonHomePage","com.auto.pageObject");
+	CHASE("ChaseHomePage","com.auto.pageObject.Chase"),
+	AMAZON("AmazonHomePage","com.auto.pageObject.Amazon");
 	
 	private static Map<String, String> MESSAGE_MAPPING = new HashMap<String, String>(100);
 	
